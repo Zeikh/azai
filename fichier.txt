@@ -1,4 +1,8 @@
+
 Premiere modif de Francky
+2eme rajout a la premier ligne du fichier texte 
+On regarde si ca fonctionne.
+
 Nouveau fichier dans le repertoire azai
 Tp Francois et Guillaume
 Bla bla
